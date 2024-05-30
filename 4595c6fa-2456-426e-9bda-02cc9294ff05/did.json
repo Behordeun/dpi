@@ -1,5 +1,4 @@
-[
-    {
+{
         "@context": [
             "https://www.w3.org/ns/did/v1"
         ],
@@ -25,5 +24,5 @@
             "did:web:behordeun.github.io:dpi:4595c6fa-2456-426e-9bda-02cc9294ff05#key-0"
         ]
     }
-]
+
 

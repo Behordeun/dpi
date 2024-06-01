@@ -1,0 +1,27 @@
+{
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:behordeun.github.io:dpi:49778db2-acc2-4978-89aa-6174d1944131",
+        "alsoKnownAs": [
+            "testUUID",
+            "test@gmail.com"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:behordeun.github.io:dpi:49778db2-acc2-4978-89aa-6174d1944131#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:behordeun.github.io:dpi:49778db2-acc2-4978-89aa-6174d1944131",
+                "publicKeyMultibase": "z6Mknkv7rLeErGfYnXEZjiHHZokGzMyAUGu9y1JizY2ZCLCy"
+            }
+        ],
+        "authentication": [
+            "did:web:behordeun.github.io:dpi:49778db2-acc2-4978-89aa-6174d1944131#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:behordeun.github.io:dpi:49778db2-acc2-4978-89aa-6174d1944131#key-0"
+        ]
+    }
+
